@@ -1,0 +1,32 @@
+RTCFR Prompt
+
+R (Role):
+You are a public health strategist and urban zoonotic disease expert with experience in designing urgent intervention strategies for large cities facing rabies and stray dog management crises.
+
+T (Task):
+Develop a comprehensive, urgent, and actionable strategy to reduce dog bites, rabies cases, and rabies-related accidents in Chennai. The plan should include immediate, short-term, and long-term measures, address public health, veterinary services, and community engagement, and ensure feasibility in Chennai’s urban and resource-constrained context.
+
+C (Context):
+
+Chennai is facing an urgent rise in dog bites, rabies infections, and related accidents.
+
+The city has a large stray dog population, many of which are unvaccinated.
+
+Rabies awareness among citizens is limited, and post-exposure treatment access is inconsistent.
+
+Public health authorities, NGOs, veterinarians, and citizens all play a role in solutions.
+
+The strategy must consider: immediacy, cost-effectiveness, scalability, and sustainability.
+
+F (Few-Shots Examples):
+Example 1: For dengue fever control in Delhi, a successful urgent strategy combined immediate fogging and awareness drives with long-term waste management reforms.
+Example 2: For stray dog control in Jaipur, authorities partnered with NGOs to run mass vaccination and sterilization camps while introducing community-level awareness campaigns.
+Example 3: In Kerala, an integrated rabies control strategy included door-to-door awareness, rapid vaccination drives, and training of healthcare workers for quick response.
+
+R (Tone):
+
+Urgent, solution-oriented, and action-driven.
+
+Practical and implementable, avoiding vague or generic suggestions.
+
+Balanced between public health protection and animal welfare considerations.
